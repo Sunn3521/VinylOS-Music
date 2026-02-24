@@ -1,0 +1,9 @@
+{
+  "songs": [
+    {
+      "title": "Test Track",
+      "artist": "VinylOS",
+      "file": "songs/test.mp3"
+    }
+  ]
+}
